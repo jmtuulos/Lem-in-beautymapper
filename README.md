@@ -3,6 +3,8 @@
 If you are doing the Lem-in project and planning to create a visualizer, you may need this tool to update the coordinates of maps created by the official generator. 
 This Beautymapper transforms the coordinates in the map given, based on the relationship between rooms.
 
+Original commits are in a [main project repository](https://github.com/ladymarengo/Lem-in).
+
 ## Usage
 If you are using Mac you can use the executable provided (beautymapper_mac)
 
